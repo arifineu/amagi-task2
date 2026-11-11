@@ -1,0 +1,7 @@
+[
+  { "id": "P101", "name": "Santos, Maria", "status": "Active", "balance": 1500.0, "ward": "A" },
+  { "id": "P102", "name": "Reyes, Jose", "status": "Discharged", "balance": 0.0, "ward": "B" },
+  { "id": "P103", "name": "Cruz, Ana", "status": "Active", "balance": 0.0, "ward": "A" },
+  { "id": "P104", "name": "Bautista, Luis", "status": "Active", "balance": 5200.5, "ward": "C" },
+  { "id": "P105", "name": "Garcia, Elena", "status": "Discharged", "balance": 300.0, "ward": "B" }
+]
